@@ -1,0 +1,18 @@
+h2{
+  text-align: center;
+  color:maroon;
+}
+h1{
+  text-align: center;
+}
+table, tr, th, td {
+  border: solid;
+ border-collapse: collapse;
+}
+.list{
+  border: solid;
+  width: 30%;
+}
+body {
+  background-image: url("Pen.jpg");
+}
